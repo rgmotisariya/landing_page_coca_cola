@@ -82,7 +82,7 @@ html,body{
     justify-content: space-between;
 }
 #herol{
-    width: 50%;
+    width: 60%;
     padding: 50px;
     padding-top: 100px;
     background-color:transparent;
@@ -119,7 +119,7 @@ html,body{
    pointer-events: all;
 }
 #hero #heror p{
-    font-size: 14px;
+    font-size: 10px;
     text-align: right;
     font-weight: 300;
 }
@@ -128,8 +128,8 @@ html,body{
     height: 170px;
     margin-top: 20px;
     margin-bottom: 30px;
-    background-image: url(https://uipath.com/cdn-cgi/image/width=1020,format=auto/https:////images.ctfassets.net/5965pury2lcm/5xuzGndZ1L2y86YqrXqe5U/eca2f70923b096cfca541ae48c7fb96d/coke-canada-bottling---customer-story-hero-image.jpg);
-    background-size: cover;
+    background-image: url(./img/coca\ cola\ small\ img.webp);
+    background-size:cover;
     border-radius: 9px;
     background-position: center;
 }
